@@ -7,8 +7,11 @@ dependencies = [
     "cvxpy>=1.7.2",
     "deap>=1.4.3",
     "gurobipy>=12.0.3",
+    "imblearn>=0.0",
+    "lifelines>=0.30.0",
     "matlabengine>=25.1.2",
     "matplotlib>=3.10.6",
+    "mord>=0.7",
     "numpy>=2.3.2",
     "openpyxl>=3.1.5",
     "pandas>=2.3.2",
@@ -20,5 +23,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
     "tqdm>=4.67.1",
-    "xgboost>=3.0.4",
+    "xgboost==3.0.5",
 ]
